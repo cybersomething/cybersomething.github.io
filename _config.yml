@@ -1,6 +1,5 @@
 theme: jekyll-theme-cayman
 title: Surviving Ethical Hacking and everything else!
-description: This is where I'll be posting my current projects, solutions to coursework and anything else security related!
 
 navbar-links:
   About Me: "aboutme"
@@ -10,3 +9,5 @@ navbar-links:
     - Coursework: "http://tiac.me/coursework"
     
 avatar: "../images/logo.png"
+
+description: This is where I'll be posting my current projects, solutions to coursework and anything else security related!
