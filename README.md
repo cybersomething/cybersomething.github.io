@@ -1,5 +1,5 @@
 <html>
   <body>
-    <h1>This is the start of something new, maybe even cool :o </h1>
+    <h1>Currently under construction, check back soon :))</h1>
   </body>
 </html>
