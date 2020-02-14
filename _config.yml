@@ -1,6 +1,5 @@
 theme: jekyll-theme-cayman
 title: Surviving Ethical Hacking and everything else!
-logo: <img src="../images/logo.png" alt="logo" class="inline"/>
 description: This is where I'll be posting my current projects, solutions to coursework and anything else security related!
 
 navbar-links:
