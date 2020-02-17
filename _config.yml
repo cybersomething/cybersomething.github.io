@@ -1,13 +1,4 @@
 theme: jekyll-theme-cayman
 title: Surviving Ethical Hacking and everything else!
-
-navbar-links:
-  About Me: "aboutme"
-  Resources:
-    - Blog: "http://tiac.me/blog/"
-    - Tutorials: "http://tiac.me/tutorials"
-    - Coursework: "http://tiac.me/coursework"
-    
-avatar: "../images/logo.png"
-
+![My Logo](/images/logo.png)
 description: This is where I'll be posting my current projects, solutions to coursework and anything else security related!
