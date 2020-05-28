@@ -1,0 +1,12 @@
+.navbar-custom 
+{ 
+    background-color: #FFB5E8; 
+} 
+
+
+/* Modify brand and text color */ 
+.navbar-custom .navbar-brand, 
+.navbar-custom .navbar-text 
+{ 
+    color: white; 
+} 
