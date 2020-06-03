@@ -8,7 +8,7 @@
     <!-- Bootstrap CSS -->
     <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.5.0/css/bootstrap.min.css" integrity="sha384-9aIt2nRpC12Uk9gS9baDl411NQApFmC26EwAOH8WgZl5MYYxFfc+NcPb1dKGj7Sk" crossorigin="anonymous">
 
-    <title>TiaC - Ethical Hacking</title>
+    <title>TiaC - Blogs</title>
     
     <style>
     .navbar-custom 
@@ -39,13 +39,13 @@ body
   <body>
     
     <nav class="navbar navbar-expand-lg navbar-custom">  
-  <a class="navbar-brand" href="index.html">Tia C</a>
+  <a class="navbar-brand" href="bloghome.html">Blog</a>
   <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
     <span class="navbar-toggler-icon"><img src="../images/menu.svg"></span>
   </button>
   <div class="collapse navbar-collapse" id="navbarSupportedContent">
     <ul class="navbar-nav mr-auto justify-content-center">
-      <li class="nav-item active">
+      <li class="nav-item">
         <a class="nav-link" href="index.html">Home <span class="sr-only">(current)</span></a>
       </li>
        <li class="nav-item">
@@ -53,6 +53,9 @@ body
       </li>
       <li class="nav-item">
         <a class="nav-link" href="../talks/talks.html">Talks and Workshops</a>
+      </li>
+      <li class="nav-item active">
+        <a class="nav-link" href="../blogs/bloghome.html">Blogs</a>
       </li>
       <li class="nav-item">
         <a class="nav-link" href="../socials/social.html">Contact Me</a>
@@ -62,11 +65,10 @@ body
     
 <div class="jumbotron jumbotron-fluid" style="background-color:#ADDDCF;">
   <div class="container">
-  <h1 class="display-4">Hello!</h1>
-  <p class="lead">This is just a wee website so that I can share my experiences, knowledge and any other interesting and cool stuff with the world!</p>
+  <h1 class="display-4">Blogs</h1>
+  <p class="lead">This is where you'll find the blogs I've written so far!</p>
   <hr>
-  <p>You can find what I've done at university so far, what talks and workshops I've delivered, what projects I'm currently doing or looking at doing as well as some infosec/computing related blog posts!</p>
-  <a class="btn btn-primary btn-lg" href="#" role="button">dunno man</a>
+  <a class="btn btn-primary btn-lg" href="#" role="button">Read my most recent post</a>
   </div>
 </div>
 
@@ -80,10 +82,11 @@ body
     <div class="col-6 col-md">
       <h5>Pages</h5>
       <ul class="list-unstyled text-small">
-        <li><a class="text-muted" href="index.html">Home</a></li>
-        <li><a class="text-muted" href="projects.html">Uni Work and Projects</a></li>
-        <li><a class="text-muted" href="talks.html">Talks and Workshops</a></li>
-        <li><a class="text-muted" href="social.html">Contact Me</a></li>
+        <li><a class="text-muted" href="../index.html">Home</a></li>
+        <li><a class="text-muted" href="../projects/projects.html">Uni Work and Projects</a></li>
+        <li><a class="text-muted" href="../talks/talks.html">Talks and Workshops</a></li>
+        <li><a class="text-muted" href="../blogs/bloghome.html">Talks and Workshops</a></li>
+        <li><a class="text-muted" href="../socials/social.html">Contact Me</a></li>
       </ul>
     </div>
     <div class="col-6 col-md">
