@@ -10,7 +10,7 @@
 { 
     color: white; 
 } 
-.card-body
+.card
 {
-    color:#FFB5E8;
+    background-color:#FFB5E8;
 }
